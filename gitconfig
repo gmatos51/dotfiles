@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = goncalormatos333@gmail.com
+	name = Gon√calo Matos
